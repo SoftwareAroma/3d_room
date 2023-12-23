@@ -8,7 +8,7 @@ Fully customizable user-experience.
 <br>
 <br>        
 <a href="https://my-3-d-room.vercel.app">
-        <img alt="Thumbnail" src="./src/Thumbnail.jpg" />
+        <img alt="Thumbnail" src="./src/thumbnail.png" />
     </a>
 <br>
 <a href="https://my-3-d-room.vercel.app">
@@ -63,10 +63,3 @@ npm run build
 1. [ThreeJS](https://threejs.org)   
 
 </details>
-
-## Responsive (only manipulation the 3D model for viewing purposes, modifying and reacting on the environment isn't possible)✔️
-
-
-## Follow me on
-
-[Instagram](https://www.instagram.com/houssem_lachtar/), [Linkedin ](https://www.linkedin.com/in/houssem-lachtar/), [Codepen](https://codepen.io/houssem-lachtar), [GitHub](https://github.com/houssemlachtar)
